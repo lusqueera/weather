@@ -15,3 +15,5 @@ Este código permite que o usuário insira o nome de uma cidade e, em seguida, c
 6-Realiza algumas traduções simples das descrições do tempo, como "clear sky" para "Tempo Limpo", "scattered clouds" para "Nuvens Dispersas" e "overcast clouds" para "Nublado".
 <br>
 7-Exibe as informações meteorológicas na tela, incluindo o nome da cidade, temperatura, descrição do tempo, umidade e velocidade do vento.
+
+<a href="https://replit.com/@contatolucassou/Weather?v=1" target="_blank">Clique e veja ele funcionando</a>
