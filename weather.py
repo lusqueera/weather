@@ -31,7 +31,7 @@ if response.status_code == 200:
     print(f'Temperatura atual: {temperatura}°C')
     print(f'Descrição do Tempo: {tempo_descricao}')
     print(f'Humidade: {humidade}%')
-    print(f'Velocidade do Vento: {vento}Km/h')
+    print(f'Velocidade do Vento: {round(vento,0)}Km/h')
     print('\n')
 
 else:
